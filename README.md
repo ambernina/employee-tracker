@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # employee-tracker
-=======
-# Employee Summary
+
 ## Description
 This is an engineering team generator command line application. It prompts the user for information about their team. The user can add any number of employees and they can be either managers, engineers, or interns. The application also has built in tests so that the user can check if everything is functioning before running the app. When the user is finished adding employees the app generates an HTML page that displays all the information that the user added for their employees.
->>>>>>> d2e13dee378fa3b8270aa3a2e10c88b85559ba32
 
 ## Description 
 
