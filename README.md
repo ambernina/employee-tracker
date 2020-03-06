@@ -5,14 +5,6 @@ This is a command line app that allows the user to track their employees, their 
 
 ![](employee-tracker.gif)
 
-## Description 
-
-This project was created to generate an employee tracker using a CLI and mySQL. Data is gathered into three tables based on department,
-role, and employee. The data can then be displayed in the console. The employee role can be updated.
-
-This application can further be updated to delete departments, roles, and employees. In addition, functionality can be added to 
-update employee managers and view employees by manager.
-
 ## Installation
 
 To utilize the project install inquirer and mysql
