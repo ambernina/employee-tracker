@@ -1,7 +1,7 @@
 # employee-tracker
 
 ## Description
-This is an engineering team generator command line application. It prompts the user for information about their team. The user can add any number of employees and they can be either managers, engineers, or interns. The application also has built in tests so that the user can check if everything is functioning before running the app. When the user is finished adding employees the app generates an HTML page that displays all the information that the user added for their employees.
+This is a command line app that allows the user to track their employees, their roles, their departments, and their salaries. The app will prompt the user to choose whether to add a department, role, or employee. Once at least one department and one role have been added, the user can then add employees, and the app will ask them their department and role. You can also view all the departments, roles, and employees in the original prompt.
 
 ![](employee-tracker.gif)
 
@@ -29,7 +29,7 @@ https://github.com/ambernina/employee-tracker
 
 MIT License
 
-Copyright (c) [2019] [Amber Robertson]
+Copyright (c) [2020] [Amber Robertson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
