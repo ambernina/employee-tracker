@@ -1,4 +1,4 @@
-# employee-tracker
+# Employee-tracker
 
 ## Description
 This is a command line app that allows the user to track their employees, their roles, their departments, and their salaries. The app will prompt the user to choose whether to add a department, role, or employee. Once at least one department and one role have been added, the user can then add employees, and the app will ask them their department and role. You can also view all the departments, roles, and employees in the original prompt.
